@@ -1,0 +1,3 @@
+Usage: ./portScanner [ip/url] [port-range]
+
+portrange not in use by default, scanns all the ports 1- 65k
